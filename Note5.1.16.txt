@@ -1,7 +1,6 @@
-이번 작업에서는 일단 필요한 데이터들만 추출하겠습니다.
+# Project 010_
 
-
-1. 포함될 Subjects
+## Include the following Subjects
 M03
 M07
 M11
@@ -77,39 +76,33 @@ Y59
 Y60
 Y61
 
-2.이번에 쓸 파일
-Kset 에서 KS1_AOI2  KS2_AOI2 KS3_AOI2 KS4_AOI2 폴더들
+## Folders that contain data
+Kset: KS1_AOI2  KS2_AOI2 KS3_AOI2 KS4_AOI2
 
-Gset 에서 GS1_AOI2  GS2_AOI2 GS3_AOI2 GS4_AOI2 폴더들
+Gset: GS1_AOI2  GS2_AOI2 GS3_AOI2 GS4_AOI2
 
-각 Kset Gset  폴더들에서 FixationDetails라고 이름 붙여진 파일들 다 포함, 즉 FixationDetails 뒤에 날짜 붙여진 것들도 다
-
-
-3. Sorting 전에
-
-Kset GSet FixationDetail 파일 다 합할 때 SET 컬럼 넣어 K1 K2 K3 K4 G1 G2 G3 G4 코딩하기
+include all FixationDetails#####
 
 
-4. Kset만 sp가 있으므로 sp는 빼기
+## Insert the following column
+
+SET: K1 K2 K3 K4 G1 G2 G3 G4 
 
 
-5. Sorting 
+## delete sp in KSET
 
-Stimulus에서 validation,_face, _scale 붙은 것들은 다 없앤 후
+
+## Sorting 
+
+Stimulus: delete validation,_face, _scale
 delete 193_fixation.jpg
-Subject으로 sorting 하기
- 
-
-6. Emotion 컬럼넣어 stimulus emotion 코딩     
-
-7. Set 컬럼하나 만들어 K, G로 코딩해주삼
+sort by Subject
 
 
-이번엔 평균내고 하는건 없음
+## Insert column Emotion filled with emotions traced from Stimulus
 
 
-
-
+## Insert column SETID with K, G
 
 
 
