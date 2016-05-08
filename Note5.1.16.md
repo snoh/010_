@@ -106,54 +106,11 @@ sort by Subject
 
 ## Merging
 
+merging titles
 Trial
 Subject
 Color
 Stimulus
-가 Number 에 있는 번호가 겹치면 안됨
-이 Number는 subject이 각 face에 시선을 고정한 순서야 그래서 stimulus마다 그 수는 다 각각 이야 Subject내에서 각 stimulus에 대한 Number가 겹치면 안됨 이걸 기준으로 겹치는걸 제거하면 됨
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+merging parameter
+Number
