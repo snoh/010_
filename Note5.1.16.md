@@ -110,4 +110,4 @@ Stimulus<br />
 Number
 
 ## Add 'Agegrp' column
-Take Subject column, code Y, M, P----Young O----Old
+Take Subject column, replace Y, M, P with Young and  O with Old
