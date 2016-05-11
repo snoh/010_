@@ -78,32 +78,23 @@ Y61
 
 ## Folders that contain data
 Kset: KS1_AOI2  KS2_AOI2 KS3_AOI2 KS4_AOI2<br />
-
 Gset: GS1_AOI2  GS2_AOI2 GS3_AOI2 GS4_AOI2<br />
-
 include all FixationDetails*
-
-
-## Insert the following column
-
-SET: K1 K2 K3 K4 G1 G2 G3 G4 
-
 
 ## delete including 
 sp in KSET<br />
 validation,_face, _scale, 193_fixation.jpg in stimulus
 
-
 ## Sorting 
 sort by Subject
 
 ## Add column  
+SET: K1 K2 K3 K4 G1 G2 G3 G4 <br />
 SETID: filled with K, G <br />
 Emotion: filled with emotions traced from Stimulus <br />
 Agegrp: Take Subject column, replace Y, M, P with Young and  O with Old
 
 ## Delete duplicate data based on Number
-
 Duplicate titles<br />
 Trial<br />
 Subject<br />
