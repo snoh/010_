@@ -99,6 +99,7 @@ delete 193_fixation.jpg
 sort by Subject
 
 ## Insert column SETID with K, G
+## Insert column Emotion filled with emotions traced from Stimulus
 
 ## Merging
 
@@ -113,5 +114,3 @@ Number
 
 ## Add 'Agegrp' column
 Take Subject column, code Y, M----Young O----Old
-## Insert column Emotion filled with emotions traced from Stimulus
-
