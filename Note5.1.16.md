@@ -77,9 +77,9 @@ Y60
 Y61
 
 ## Folders that contain data
-Kset: KS1_AOI2  KS2_AOI2 KS3_AOI2 KS4_AOI2
+Kset: KS1_AOI2  KS2_AOI2 KS3_AOI2 KS4_AOI2<br />
 
-Gset: GS1_AOI2  GS2_AOI2 GS3_AOI2 GS4_AOI2
+Gset: GS1_AOI2  GS2_AOI2 GS3_AOI2 GS4_AOI2<br />
 
 include all FixationDetails#####
 
@@ -90,7 +90,7 @@ SET: K1 K2 K3 K4 G1 G2 G3 G4
 
 
 ## delete including 
-sp in KSET/n
+sp in KSET<br />
 validation,_face, _scale, 193_fixation.jpg in stimulus
 
 
@@ -102,11 +102,11 @@ sort by Subject
 
 ## Delete duplicate data based on Number
 
-Duplicate titles
-Trial
-Subject
-Color
-Stimulus
+Duplicate titles<br />
+Trial<br />
+Subject<br />
+Color<br />
+Stimulus<br />
 Number
 
 ## Add 'Agegrp' column
