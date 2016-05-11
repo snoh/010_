@@ -98,7 +98,8 @@ Stimulus: delete validation,_face, _scale
 delete 193_fixation.jpg
 sort by Subject
 
-
+## Add 'Agegrp' column
+Y, M----Young O----Old
 ## Insert column Emotion filled with emotions traced from Stimulus
 
 
