@@ -88,7 +88,7 @@ validation,_face, _scale, 193_fixation.jpg in stimulus
 ## Sorting 
 sort by Subject
 
-## Add column  
+## Add columns
 SET: K1 K2 K3 K4 G1 G2 G3 G4 <br />
 SETID: filled with K, G <br />
 Emotion: filled with emotions traced from Stimulus <br />
