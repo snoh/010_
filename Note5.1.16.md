@@ -95,7 +95,7 @@ Emotion: filled with emotions traced from Stimulus <br />
 Agegrp: Take Subject column, replace Y, M, P with Young and  O with Old
 
 ## Delete duplicate data based on Number
-Duplicate titles<br />
+Duplicate titles:<br />
 Trial<br />
 Subject<br />
 Color<br />
