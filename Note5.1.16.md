@@ -101,15 +101,13 @@ sort by Subject
 ## Insert column SETID with K, G
 ## Insert column Emotion filled with emotions traced from Stimulus
 
-## Merging
+## Delete duplicate data based on Number
 
-merging titles
+Duplicate titles
 Trial
 Subject
 Color
 Stimulus
-
-merging parameter
 Number
 
 ## Add 'Agegrp' column
