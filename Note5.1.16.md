@@ -90,7 +90,7 @@ SET: K1 K2 K3 K4 G1 G2 G3 G4
 
 
 ## delete including 
-sp in KSET\n
+sp in KSET/n
 validation,_face, _scale, 193_fixation.jpg in stimulus
 
 
