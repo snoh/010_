@@ -89,13 +89,12 @@ include all FixationDetails#####
 SET: K1 K2 K3 K4 G1 G2 G3 G4 
 
 
-## delete sp in KSET
+## delete including 
+sp in KSET\n
+validation,_face, _scale, 193_fixation.jpg in stimulus
 
 
 ## Sorting 
-
-Stimulus: delete validation,_face, _scale
-delete 193_fixation.jpg
 sort by Subject
 
 ## Insert column SETID with K, G
