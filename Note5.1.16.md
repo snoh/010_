@@ -81,7 +81,7 @@ Kset: KS1_AOI2  KS2_AOI2 KS3_AOI2 KS4_AOI2<br />
 Gset: GS1_AOI2  GS2_AOI2 GS3_AOI2 GS4_AOI2<br />
 include all FixationDetails*
 
-## delete including 
+## Delete data that include 
 sp in KSET<br />
 validation,_face, _scale, 193_fixation.jpg in stimulus
 
