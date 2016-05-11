@@ -81,7 +81,7 @@ Kset: KS1_AOI2  KS2_AOI2 KS3_AOI2 KS4_AOI2<br />
 
 Gset: GS1_AOI2  GS2_AOI2 GS3_AOI2 GS4_AOI2<br />
 
-include all FixationDetails#####
+include all FixationDetails*
 
 
 ## Insert the following column
@@ -97,8 +97,10 @@ validation,_face, _scale, 193_fixation.jpg in stimulus
 ## Sorting 
 sort by Subject
 
-## Insert column SETID with K, G
-## Insert column Emotion filled with emotions traced from Stimulus
+## Insert column SETID 
+fill with K, G
+## Insert column Emotion 
+fill with emotions traced from Stimulus
 
 ## Delete duplicate data based on Number
 
