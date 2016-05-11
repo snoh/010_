@@ -97,10 +97,10 @@ validation,_face, _scale, 193_fixation.jpg in stimulus
 ## Sorting 
 sort by Subject
 
-## Insert column SETID 
-fill with K, G
-## Insert column Emotion 
-fill with emotions traced from Stimulus
+## Add column  
+SETID: filled with K, G <br />
+Emotion: filled with emotions traced from Stimulus <br />
+Agegrp: Take Subject column, replace Y, M, P with Young and  O with Old
 
 ## Delete duplicate data based on Number
 
@@ -111,5 +111,3 @@ Color<br />
 Stimulus<br />
 Number
 
-## Add 'Agegrp' column
-Take Subject column, replace Y, M, P with Young and  O with Old
