@@ -4,8 +4,8 @@
 SUE/20Feb2015/OUTPUT/010_COMBnSORT
 
 ### FILES
-010_COMBData.csv:     merged data after duplicate (by Number) deleted
-010_LofStimuli.csv:   levels of Stimuli after wrong data deleted
+010_COMBData.csv:     merged data after duplicate (by Number) deleted<br />
+010_LofStimuli.csv:   levels of Stimuli after wrong data deleted<br />
 010_Rdata.csv:        merged data without duplicates deleted
 
 ### Include the following Subjects
