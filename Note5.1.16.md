@@ -1,6 +1,14 @@
 # Project 010_
 
-## Include the following Subjects
+### Working Directories
+SUE/20Feb2015/OUTPUT/010_COMBnSORT
+
+### FILES
+010_COMBData.csv:     merged data after duplicate (by Number) deleted
+010_LofStimuli.csv:   levels of Stimuli after wrong data deleted
+010_Rdata.csv:        merged data without duplicates deleted
+
+### Include the following Subjects
 M03
 M07
 M11
@@ -76,25 +84,25 @@ Y59
 Y60
 Y61
 
-## Folders that contain data
+### Folders that contain data
 Kset: KS1_AOI2  KS2_AOI2 KS3_AOI2 KS4_AOI2<br />
 Gset: GS1_AOI2  GS2_AOI2 GS3_AOI2 GS4_AOI2<br />
 include all FixationDetails*
 
-## Delete data that include 
+### Delete data that include 
 sp in KSET<br />
 validation,_face, _scale, 193_fixation.jpg in stimulus
 
-## Sorting 
+### Sorting 
 sort by Subject
 
-## Add columns
+### Add columns
 SET: K1 K2 K3 K4 G1 G2 G3 G4 <br />
 SETID: filled with K, G <br />
 Emotion: filled with emotions traced from Stimulus <br />
 Agegrp: Take Subject column, replace Y, M, P with Young and  O with Old
 
-## Delete duplicate data based on Number
+### Delete duplicate data based on Number
 Duplicate titles:<br />
 Trial<br />
 Subject<br />
