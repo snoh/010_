@@ -1,5 +1,13 @@
 #RTdata
-##Create Column
+
+##Working Director
+###Data Folder
+/20Feb2015/RTdata/
+###Output Folder
+/20Feb2015/RTdata/Output
+
+##To Do
+###Create Column
 1) Make "CrtRT" accurcy=1인 RT만 포함  accurcy=0은 BLANK로 두기   <br />
 2) Make "SlowRTremove", "CrtRT" 컬럼에서 RT>3000ms은 BLANK로 두기 <br />
 3) Make "CrtRTfinal" , accurcy=1 RT<=3000ms 만 포함 <br />
