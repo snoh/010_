@@ -110,3 +110,8 @@ Color<br />
 Stimulus<br />
 Number
 
+###Change 'Agegrp" coding
+P58 P59 young에서 old로 <br />
+
+###Error Matrix 
+All, young, old로 나누어 만들기
