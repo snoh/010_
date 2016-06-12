@@ -1,4 +1,4 @@
-# Project 010_
+# Project 010_iMAP
 
 ### Working Directories
 SUE/20Feb2015/OUTPUT/010_COMBnSORT
