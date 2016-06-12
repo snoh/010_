@@ -1,6 +1,26 @@
-# 전에 만들었던 Error Matrix에서(오빠가 썼던 파일을 드랍박스에서 알려주면 내가 그 파일을 가지고 추가 설명할 수 있음)
+### SAME AS BEFORE
+same data - see DATA <br />
+same r files - see Move the following r files
 
-### Include the following Subjects 여기에 해당하는 subject만 포함하기 
+### DATA
+all files 'detailed' & 'stat' in the following folders
+SUE/20Feb2015/KSET
+SUE/20Feb2015/GSET
+
+### Working Directories
+SUE/20Feb2015/001_ERR/GSET
+SUE/20Feb2015/001_ERR/KSET
+
+### Output folder
+SUE/20Feb2015/001_ERR/GSET/Output
+SUE/20Feb2015/001_ERR/KSET/Output
+
+### Move the following r files
+main.R
+[GK]SER1_AFix.R
+[GK]SET1_AFix_Err_Table.R
+
+### Include the following Subjects
 M03
 M07
 M11
@@ -76,7 +96,8 @@ Y59
 Y60
 Y61
 
-###'Agegrp" coding
+###Agegrp
+same as before except
 M03
 M07
 M11
@@ -89,5 +110,5 @@ P58 P59는  old로 <br />
 그외 Y는 young  O는 old
 
 ###Error Matrix 
-Gset Kset으로 나누고  <br />
-Gset Kset 각각 내에서 All, young, old로 나누어 만들기
+same as before except <br />
+add Err_table_All.csv
