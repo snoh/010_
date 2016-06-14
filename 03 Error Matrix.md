@@ -3,21 +3,20 @@ same data - see DATA <br />
 same r files - see Move the following r files
 
 ### DATA
-all files 'detailed' & 'stat' in the following folders
-SUE/20Feb2015/KSET
-SUE/20Feb2015/GSET
+all files 'detailed' & 'stat' in the following folders<br />
+SUE/20Feb2015/KSET<br />
+SUE/20Feb2015/GSET<br />
 
 ### Working Directories
-SUE/20Feb2015/001_ERR/GSET
+SUE/20Feb2015/001_ERR/GSET<br />
 SUE/20Feb2015/001_ERR/KSET
 
 ### Output folder
-SUE/20Feb2015/001_ERR/GSET/Output
-SUE/20Feb2015/001_ERR/KSET/Output
+SUE/20Feb2015/001_ERR/Output
 
 ### Move the following r files
-main.R
-[GK]SER1_AFix.R
+main.R<br />
+[GK]SER1_AFix.R<br />
 [GK]SET1_AFix_Err_Table.R
 
 ### Include the following Subjects
